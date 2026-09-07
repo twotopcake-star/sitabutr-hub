@@ -1,6 +1,6 @@
 {
-  "name": "Sitabutr Babrung School Portal",
-  "short_name": "Sitabutr Hub",
+  "name": "Sitabutr",
+  "short_name": "Sitabutr",
   "description": "ศูนย์รวมระบบงานดิจิทัล Sitabutr Babrung School",
   "start_url": "./index.html",
   "scope": "./",
